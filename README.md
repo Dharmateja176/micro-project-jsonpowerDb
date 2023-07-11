@@ -25,7 +25,7 @@ Read more about JsonPowerDB at [Documentation Link](http://login2explore.com/jpd
 
 ### Release History
 
-The Website can be made live using github Pages and Can be accessed by clicking [link](#release-history)  
+The Website can be made live using github Pages and Can be accessed by clicking [link](https://dharmateja176.github.io/micro-project-jsonpowerDb/)  
 
 ## [Screenshots](#screenshots)
 Index Page
